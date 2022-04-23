@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+  }
+
+  
+  
+.imagenLogo{
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#textoSolucion{
+ display: inline-block;
+ 
+}
+
+#textoTelefono{
+display: inline-block;
+margin-left: 800px;
+}
+
+/*Lo de arriba es solo el logo, el texto de solucion y el llamanos, LO DE ACA ABAJO ES EL DEMÁS TEXTO JUNTO CON LA IMAGEN*/ 
+#textoSomos{
+    margin-left: 115px;
+    font-weight: bold;
+}
+
+#textoDisposicion{
+    margin-left: 50px;
+    width: 700px;
+    float: left;
+  
+    
+    
+}
+
+#fotoPerrito{
+    width: 440px;
+    height: 225px;
+    float: right;
+    margin-right: 220px;
+    
+}
+
+/*Lo de aca arriba es lo de SOMOS la Solución, el texto y la imagen del perrito*/
+
+
+
+#boton1{
+    display: inline-block;
+    float: left;
+    margin-left: 520px;
+    margin-right: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+#boton2{
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+#boton3{
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+#boton4{
+    display: inline-block;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+
+/*ACA PARA ABAJO ES LO DE LOS 3 CUADRADOS CON LA IMAGEN*/
+
+#imagenRectangular{
+    margin-top: 50px;
+    width: 248px;
+    height: 248px;
+}
+
+#leeMasLugar{
+    margin-left: 191px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+}
+
+.alinearCuadrados{
+    display: inline-block;
+    margin-left: 170px;
+}
+
+
+#textoVision{
+    width: 600px;
+   
+}
+
+.alinearTexto{
+    
+    display: inline-block;
+    margin-left: 170px;
+}
+
+#limiteTexto{
+    width: 248px;
+    text-align: center;
+}
+
+/*ACA ES LO DEL FOOTER, LOS ICONOS CON LOS LINKS*/
+
+.linksIconos{
+    margin-top: 30px;
+    float: right;
+}
+
+#linkFacebook{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#linkWhatsapp{
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+#linkGooglePlay{
+    margin-left: 5px;
+    margin-right: 98px;
+}
